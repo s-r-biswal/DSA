@@ -1,51 +1,51 @@
-Alice Johnson,New York,21/04/1989, Programmer,{OrgSize=17,dr=18}
-Ivan Petrov,London,13/02/1985, Engineer,{OrgSize=22,dr=14}
-Carlos Martinez,Madrid,07/11/1990, Designer,{OrgSize=15,dr=12}
-Diana Müller,Berlin,25/06/1988, Analyst,{OrgSize=19,dr=16}
-Ivan Petrov,San Francisco,09/09/1992, Programmer,{OrgSize=24,dr=20}
-Fiona O'Connor,Dublin,18/03/1991, Tester,{OrgSize=14,dr=10}
-Ivan Petrov,Sydney,01/12/1986, DevOps,{OrgSize=21,dr=17}
-Hannah Svensson,Stockholm,21/04/1992, Programmer,{OrgSize=17,dr=18}
-Ivan Petrov,Moscow,30/01/1987, Architect,{OrgSize=26,dr=22}
-Julia Tanaka,Tok yo,14/08/1993, ProductOwner,{OrgSize=20,dr=15}
-Nina Rossi,Seoul,05/05/1989, Engineer,{OrgSize=18,dr=13}
-Nina Rossi,Barcelona,27/07/1991, Designer,{OrgSize=16,dr=11}
-Tina Novak,Chicago,11/10/1984, Manager,{OrgSize=30,dr=25}
-Nina Rossi,Milan,02/02/1992, Analyst,{OrgSize=15,dr=12}
-Oliver White,Boston,19/09/1988, Consultant,{OrgSize=23,dr=19}
-Paula Santos,Lisbon,06/06/1990, HR,{OrgSize=12,dr=8}
-Samuel Okoye,Paris,22/04/1987, Programmer,{OrgSize=19,dr=16}
-Tina Novak,Los Angeles,15/01/1994, UX,{OrgSize=14,dr=9}
-Samuel Okoye,Lagos,28/03/1986, Engineer,{OrgSize=21,dr=17}
-Tina Novak,Prague,10/12/1991, Tester,{OrgSize=13,dr=10}
-Daniel Kowalski,Dubai,04/04/1989, Consultant,{OrgSize=28,dr=23}
-Daniel Kowalski,Rome,17/08/1992, Analyst,{OrgSize=16,dr=13}
-Daniel Kowalski,Seattle,09/09/1985, Architect,{OrgSize=27,dr=21}
-Daniel Kowalski,Mexico City,21/11/1990, Designer,{OrgSize=18,dr=14}
-Daniel Kowalski,Istanbul,03/03/1988, Programmer,{OrgSize=20,dr=16}
-Daniel Kowalski,Ahmedabad,26/05/1993, Engineer,{OrgSize=17,dr=12}
-Aaron Cohen,Tel Aviv,12/02/1987, DevOps,{OrgSize=22,dr=18}
-Bianca Silva,Sao Paulo,29/07/1991, Analyst,{OrgSize=19,dr=15}
-Chen Wei,Shanghai,08/08/1989, Programmer,{OrgSize=24,dr=20}
-Daniel Kowalski,Warsaw,16/10/1986, Engineer,{OrgSize=21,dr=17}
-Elena Popescu,Bucharest,01/01/1992, Tester,{OrgSize=14,dr=11}
-Noah Williams,Hamburg,23/06/1988, Programmer,{OrgSize=18,dr=15}
-Grace Kim,Busan,14/04/1994, Designer,{OrgSize=13,dr=9}
-Noah Williams,Osaka,30/09/1985, Manager,{OrgSize=29,dr=24}
-Noah Williams,Florence,07/07/1990, Analyst,{OrgSize=16,dr=12}
-Elena Popescu,Oslo,11/11/1987, Consultant,{OrgSize=20,dr=16}
-Elena Popescu,Cairo,05/05/1989, Engineer,{OrgSize=23,dr=18}
-Noah Williams,Frankfurt,18/08/1991, Programmer,{OrgSize=17,dr=14}
-Elena Popescu,Buenos Aires,09/02/1986, Architect,{OrgSize=26,dr=22}
-Noah Williams,Denver,27/12/1993, DevOps,{OrgSize=15,dr=11}
-Pedro Costa,St Petersburg,03/03/1988, Analyst,{OrgSize=18,dr=15}
-Pedro Costa,Porto,21/04/1992, Programmer,{OrgSize=17,dr=18}
-Pedro Costa,Beijing,14/06/1989, Engineer,{OrgSize=22,dr=17}
-Ravi Shankar,Bangalore,02/02/1990, Programmer,{OrgSize=25,dr=20}
-Pedro Costa,Copenhagen,19/09/1991, UX,{OrgSize=14,dr=10}
-Ravi Shankar,Austin,11/11/1985, Architect,{OrgSize=28,dr=23}
-Ravi Shankar,Basel,06/06/1987, Analyst,{OrgSize=16,dr=13}
-Ravi Shankar,Monterrey,25/05/1992, Engineer,{OrgSize=19,dr=15}
-Ravi Shankar,Shenzhen,08/08/1988, Tester,{OrgSize=15,dr=11}
-Ravi Shankar,Amman,17/03/1994, Consultant,{OrgSize=13,dr=9}
-Zachary Miller,Portland,29/01/1986, Programmer,{OrgSize=21,dr=17}
+Alice Johnson,New York,21/04/1989, Programmer,{OrgSize=17,salary=18}
+Ivan Petrov,London,13/02/1985, Engineer,{OrgSize=22,salary=14}
+Carlos Martinez,Madrid,07/11/1990, Designer,{OrgSize=15,salary=12}
+Diana Müller,Berlin,25/06/1988, Analyst,{OrgSize=19,salary=16}
+Ivan Petrov,San Francisco,09/09/1992, Programmer,{OrgSize=24,salary=20}
+Fiona O'Connor,Dublin,18/03/1991, Tester,{OrgSize=14,salary=10}
+Ivan Petrov,Sydney,01/12/1986, DevOps,{OrgSize=21,salary=17}
+Hannah Svensson,Stockholm,21/04/1992, Programmer,{OrgSize=17,salary=18}
+Ivan Petrov,Moscow,30/01/1987, Architect,{OrgSize=26,salary=22}
+Julia Tanaka,Tok yo,14/08/1993, ProductOwner,{OrgSize=20,salary=15}
+Nina Rossi,Seoul,05/05/1989, Engineer,{OrgSize=18,salary=13}
+Nina Rossi,Barcelona,27/07/1991, Designer,{OrgSize=16,salary=11}
+Tina Novak,Chicago,11/10/1984, Manager,{OrgSize=30,salary=25}
+Nina Rossi,Milan,02/02/1992, Analyst,{OrgSize=15,salary=12}
+Oliver White,Boston,19/09/1988, Consultant,{OrgSize=23,salary=19}
+Paula Santos,Lisbon,06/06/1990, HR,{OrgSize=12,salary=8}
+Samuel Okoye,Paris,22/04/1987, Programmer,{OrgSize=19,salary=16}
+Tina Novak,Los Angeles,15/01/1994, UX,{OrgSize=14,salary=9}
+Samuel Okoye,Lagos,28/03/1986, Engineer,{OrgSize=21,salary=17}
+Tina Novak,Prague,10/12/1991, Tester,{OrgSize=13,salary=10}
+Daniel Kowalski,Dubai,04/04/1989, Consultant,{OrgSize=28,salary=23}
+Daniel Kowalski,Rome,17/08/1992, Analyst,{OrgSize=16,salary=13}
+Daniel Kowalski,Seattle,09/09/1985, Architect,{OrgSize=27,salary=21}
+Daniel Kowalski,Mexico City,21/11/1990, Designer,{OrgSize=18,salary=14}
+Daniel Kowalski,Istanbul,03/03/1988, Programmer,{OrgSize=20,salary=16}
+Daniel Kowalski,Ahmedabad,26/05/1993, Engineer,{OrgSize=17,salary=12}
+Aaron Cohen,Tel Aviv,12/02/1987, DevOps,{OrgSize=22,salary=18}
+Bianca Silva,Sao Paulo,29/07/1991, Analyst,{OrgSize=19,salary=15}
+Chen Wei,Shanghai,08/08/1989, Programmer,{OrgSize=24,salary=20}
+Daniel Kowalski,Warsaw,16/10/1986, Engineer,{OrgSize=21,salary=17}
+Elena Popescu,Bucharest,01/01/1992, Tester,{OrgSize=14,salary=11}
+Noah Williams,Hamburg,23/06/1988, Programmer,{OrgSize=18,salary=15}
+Grace Kim,Busan,14/04/1994, Designer,{OrgSize=13,salary=9}
+Noah Williams,Osaka,30/09/1985, Manager,{OrgSize=29,salary=24}
+Noah Williams,Florence,07/07/1990, Analyst,{OrgSize=16,salary=12}
+Elena Popescu,Oslo,11/11/1987, Consultant,{OrgSize=20,salary=16}
+Elena Popescu,Cairo,05/05/1989, Engineer,{OrgSize=23,salary=18}
+Noah Williams,Frankfurt,18/08/1991, Programmer,{OrgSize=17,salary=14}
+Elena Popescu,Buenos Aires,09/02/1986, Architect,{OrgSize=26,salary=22}
+Noah Williams,Denver,27/12/1993, DevOps,{OrgSize=15,salary=11}
+Pesalaryo Costa,St Petersburg,03/03/1988, Analyst,{OrgSize=18,salary=15}
+Pesalaryo Costa,Porto,21/04/1992, Programmer,{OrgSize=17,salary=18}
+Pesalaryo Costa,Beijing,14/06/1989, Engineer,{OrgSize=22,salary=17}
+Ravi Shankar,Bangalore,02/02/1990, Programmer,{OrgSize=25,salary=20}
+Pesalaryo Costa,Copenhagen,19/09/1991, UX,{OrgSize=14,salary=10}
+Ravi Shankar,Austin,11/11/1985, Architect,{OrgSize=28,salary=23}
+Ravi Shankar,Basel,06/06/1987, Analyst,{OrgSize=16,salary=13}
+Ravi Shankar,Monterrey,25/05/1992, Engineer,{OrgSize=19,salary=15}
+Ravi Shankar,Shenzhen,08/08/1988, Tester,{OrgSize=15,salary=11}
+Ravi Shankar,Amman,17/03/1994, Consultant,{OrgSize=13,salary=9}
+Zachary Miller,Portland,29/01/1986, Programmer,{OrgSize=21,salary=17}
